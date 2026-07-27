@@ -6,7 +6,7 @@ Dieses Repository enthält **50 produktionsbereite Make.com (Integromat) Bluepri
 
 ---
 
-## 🎯 Zweck & Funktionsweise
+## Zweck & Funktionsweise
 
 ### 1. Algorithmisches Lernen & Futter für den Algorithmus
 Google Ads Smart Bidding (tCPA / tROAS) und Performance Max (PMax) Algorithmen benötigen kontinuierlich frische, qualitativ hochwertige Creative-Assets. Durch das Bereitstellen diverser Text- und Asset-Varianten erhält der Algorithmus die nötigen Datenpunkte, um neue Nutzersegmente und Auktionen effizient zu erschließen.
@@ -23,7 +23,7 @@ Die Pipelines sind für eine **monatliche Test- und Skalierungsroutine** konzipi
 
 ---
 
-## 🏗️ End-to-End Datenfluss
+## End-to-End Datenfluss
 
 ```
 [Aktive Kampagne / RSAs / Asset-Gruppen] 
@@ -45,7 +45,7 @@ Die Pipelines sind für eine **monatliche Test- und Skalierungsroutine** konzipi
 
 ---
 
-## 🧠 Die 25 Copywriting Hook-Frameworks
+## Die 25 Copywriting Hook-Frameworks
 
 Die 50 Pipelines teilen sich auf in **25 RSA-Pipelines** und **25 PMax-Pipelines**, basierend auf erprobten Werbepsychologie-Hooks:
 
@@ -79,11 +79,12 @@ Die 50 Pipelines teilen sich auf in **25 RSA-Pipelines** und **25 PMax-Pipelines
 
 ---
 
-## 📁 Repository-Struktur
+## Repository-Struktur
 
 ```
 50-ai-asset-pipelines-google-ads/
 ├── README.md
+├── LICENSE
 └── blueprints/
     ├── rsa/    (25 Make.com Blueprint JSONs für Responsive Suchanzeigen)
     └── pmax/   (25 Make.com Blueprint JSONs für Performance Max Asset-Gruppen)
@@ -91,7 +92,7 @@ Die 50 Pipelines teilen sich auf in **25 RSA-Pipelines** und **25 PMax-Pipelines
 
 ---
 
-## 🚀 Setup & Import-Anleitung (Make.com)
+## Setup & Import-Anleitung (Make.com)
 
 1. **Blueprint herunterladen:** Navigiere im Repository in den Ordner `blueprints/rsa/` oder `blueprints/pmax/` und wähle den gewünschten Hook aus.
 2. **Neues Szenario in Make.com erstellen:**
@@ -110,7 +111,7 @@ Die 50 Pipelines teilen sich auf in **25 RSA-Pipelines** und **25 PMax-Pipelines
 
 ---
 
-## 🛡️ Review & Quality Governance Agent
+## Review & Quality Governance Agent
 
 Jede Pipeline enthält ein automatisches **Review-Agenten-Modul**:
 - **Zeichenlängen-Garantie:** 
@@ -120,7 +121,11 @@ Jede Pipeline enthält ein automatisches **Review-Agenten-Modul**:
 
 ---
 
-## 📄 Lizenz & Credits
+## Lizenz & Credits
 
 Erstellt von [Slava Wagner](https://github.com/SlavaWagner).  
-Inspiriert von der [ai-ads-pipeline](https://github.com/SlavaWagner/ai-ads-pipeline).
+Inspiriert von der [ai-ads-pipeline](https://github.com/SlavaWagner/ai-ads-pipeline).  
+
+Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die [LICENSE](LICENSE) Datei für Details.
+
+Erstellt mit Hilfe von Antigravity CLI
