@@ -54,13 +54,13 @@ Die 50 Pipelines teilen sich auf in **25 RSA-Pipelines** und **25 PMax-Pipelines
 | 01 | **Autoritäts-Hook** | Etabliert Expertenstatus, Zertifizierungen & Branchenführung |
 | 02 | **Beweis-Hook** | Zahlen, Daten, Fakten & harte Kennzahlen zur Untermauerung |
 | 03 | **Demonstrations-Hook** | Zeigt den konkreten Funktions- und Arbeitsablauf des Produkts |
-| 04 | **Dringlichkeits-Hook** | Erzeugt FOMO, zeitliche Begrenzung & Handlungsdruck |
+| 04 | **Dringlichkeits-Hook** | Hebt hervor: „Nie war es wichtiger, als heute [x] zu tun“, „Handeln oder warten?“, etc. |
 | 05 | **Einzigartigkeits-Hook** | Hebt das USV & Alleinstellungsmerkmal klar hervor |
 | 06 | **Fehler-Hook** | Warnt vor häufigen, teuren Fehlern der Zielgruppe |
 | 07 | **Geheimnis-Hook** | Weckt Neugier durch unkonventionelle Insider-Tipps |
 | 08 | **Identitäts-Hook** | Spricht die Selbstwahrnehmung & Zielgruppen-Rolle direkt an |
 | 09 | **Insider-Hook** | Vermittelt exklusives Fachwissen hinter den Kulissen |
-| 10 | **Kontrarian-Hook** | Hinterfragt gängige Branchen-Mythen & Glaubenssätze |
+| 10 | **Gegenteil-Hook** | Hinterfragt gängige Branchen-Mythen & Glaubenssätze |
 | 11 | **Mechanismus-Hook** | Erklärt das spezifische "Wie" & die Funktionsweise des Erfolgs |
 | 12 | **Mythen-Hook** | Räumt mit weit verbreiteten Irrtümern der Branche auf |
 | 13 | **Neugier-Hook** | Stellt offene Fragen & erzeugt einen Information Gap |
